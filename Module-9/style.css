@@ -1,0 +1,24 @@
+        
+
+                body {
+                    background-color: white;
+                }
+            
+                
+            
+                .red {color: red}
+
+                .blue{ color: blue}
+                .green{ color: green}
+            
+               .big{ font-size: 50px; color: black }
+               .tiny{font-size: 10px; color : black}
+               .center{text-align: center;}
+               .bold{font-weight: bold;}
+               .font{font-style: italic;}
+               .multiple{color: orange; font-weight: bold; font-size: 40px}
+
+               .styledFont{color: green; font-weight: bold}
+
+                img {
+                    border: 5px solid orange;}
